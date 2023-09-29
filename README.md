@@ -32,18 +32,18 @@ llamado Hugo Salgado, con el correo hsalgado@nic.cl.
 
 2. el día del evento, deben llevar
 
-  1. al menos un documento de identificación (mejor si son dos)
-    donde se vea su fotografía y nombre completo (pasaporte,
-    documento de identidad nacional, cédula de conducir, etc)
+   1. al menos un documento de identificación (mejor si son dos)
+     donde se vea su fotografía y nombre completo (pasaporte,
+     documento de identidad nacional, cédula de conducir, etc)
 
-  2. una copia personal del fingerprint de su llave. Puede ser
-    en cualquier medio que deseen, mientras estén seguros que
-    es confiable (en su propio computador, tablet, teléfono,
-    incluso escrita en un papel).
+   2. una copia personal del fingerprint de su llave. Puede ser
+     en cualquier medio que deseen, mientras estén seguros que
+     es confiable (en su propio computador, tablet, teléfono,
+     incluso escrita en un papel).
 
-    Pueden obtener su fingerprint con gpg:
+   Pueden obtener su fingerprint con gpg:
       % gpg --fingerprint hsalgado@nic.cl
-    (es el valor de la línea 'Key fingerprint = ....' )
+   (es el valor de la línea 'Key fingerprint = ....' )
 
 3. al comenzar la ceremonia se les entregará una hoja impresa
   con los fingerprints de todos los participantes.
