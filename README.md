@@ -22,7 +22,7 @@ llave (en realidad el fingerprint de mi llave). El resto de participantes
 revisa una copia del fingerprint y toma notas de mi identidad (solo el
 nombre, no se debe copiar números ni otros datos), para luego testificar
 con sus firmas la certeza que la llave 0xF120A230 pertenece a un humano
-llamado Hugo Salgado, con el correo hsalgado@nic.cl.
+llamado Hugo Salgado, con el correo hsalgado@vulcano.cl.
 
 
 ## PASOS DE UNA CEREMONIA DE FIRMA DE LLAVES PGP
@@ -42,7 +42,7 @@ llamado Hugo Salgado, con el correo hsalgado@nic.cl.
      incluso escrita en un papel).
 
    Pueden obtener su fingerprint con gpg:
-      % gpg --fingerprint hsalgado@nic.cl
+      % gpg --fingerprint hsalgado@vulcano.cl
    (es el valor de la línea 'Key fingerprint = ....' )
 
 3. al comenzar la ceremonia se les entregará una hoja impresa
