@@ -60,7 +60,7 @@ llamado Hugo Salgado, con el correo hsalgado@vulcano.cl.
   El resto de participantes va verificando en sus hojas que el
   fingerprint sea el correcto.
 
-6. Luego se arma un "carrusel" con todos los participantes,
+5. Luego se arma un "carrusel" con todos los participantes,
   donde cada uno va mostrando sus documentos de identidad al
   resto de personas. Cada uno va tomando sus propias notas en
   las hojas, dependiendo del grado de confianza que le merezca.
