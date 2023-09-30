@@ -54,6 +54,9 @@ llamado Hugo Salgado, con el correo hsalgado@vulcano.cl.
   radiotelefonía internacional (zero, one, two, three... alfa,
   bravo, charlie, delta, echo, foxtrot)
 
+ Pueden obtener su fingerprint escrito en ese alfabeto con gpg:
+      % gpg --fingerprint --with-icao-spelling hsalgado@vulcano.cl
+   
   El resto de participantes va verificando en sus hojas que el
   fingerprint sea el correcto.
 
